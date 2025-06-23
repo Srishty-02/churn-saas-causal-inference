@@ -20,8 +20,15 @@ This project focuses on understanding and predicting customer churn in a SaaS en
 ## 📌 Key Insights
 
 - **Auto-renewal**, **login frequency**, and **support tickets** strongly influence churn.
-- Causal analysis shows targeted retention offers reduce churn probability significantly.
-- Dashboard enables churn exploration by segment (contract type, age, usage).
+
+
+## 📈 Tableau Dashboard
+
+Download the dashboard to explore interactively in Tableau Desktop:
+
+👉 https://github.com/Srishty-02/churn-saas-causal-inference/blob/main/Churn%20Prediction.twb
+    - Causal analysis shows targeted retention offers reduce churn probability significantly.
+    - Dashboard enables churn exploration by segment (contract type, age, usage).
 
 ---
 
